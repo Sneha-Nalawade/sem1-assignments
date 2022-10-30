@@ -1,0 +1,21 @@
+Circuit: * C:\Users\dell\Desktop\EC LAB\Draft4.asc
+
+.OP point found by inspection.
+
+Date: Tue Feb 15 13:02:45 2022
+Total elapsed time: 0.395 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 168875
+traniter = 168875
+tranpoints = 30811
+accept = 23226
+rejected = 7585
+matrix size = 8
+fillins = 4
+solver = Normal
+Matrix Compiler1:      37 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: 690 bytes object code size  0.1/0.1/[0.1]
+
